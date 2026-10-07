@@ -23,4 +23,4 @@ This research was conducted at the **School of Computer Engineering, KIIT DU, Bh
 
 ## 📬 Contact
 For questions regarding the codebase or the paper, please reach out via email:
-`ishaanmishral11@gmail.com`
+`ishaanmishra111@gmail.com`
