@@ -1,7 +1,7 @@
 # Comparative Study of Emerging DL Models in Brain Tumor Detection (BTD) 🧠
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Framework](https://img.shields.io/badge/Framework-PyTorch%2FTensorFlow-orange.svg)]()
+[![Framework](https://img.shields.io/badge/Framework-PyTorch-orange.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 > Official repository for the paper **"Comparative Study of Emerging DL Models in BTD"**. 
